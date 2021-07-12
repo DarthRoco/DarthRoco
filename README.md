@@ -12,6 +12,7 @@ Hello World, I'm Shreyas Bhat &#128516;
 
 </p>
 <hr/>
+
 #### I strongly believe in the power of self learning and am always on the lookout for upskilling myself in whatever ways I can.
 
 ### My skills :high_brightness:
